@@ -7,6 +7,7 @@ Installation
 * compilier le fichier `todo.hs` avec `ghc --male todo`.
 * copier le fichier `todo` dans `~/bin`.
 * Ajouter les lignes suivantes au début de votre fichier `~/.zshrc` ou `~/.bashrc` :
+
     #Todo liste à l'ouverture du terminal
     todo sort
     todo viewTime
@@ -18,6 +19,7 @@ Le programme met tout ses fichiers dans le répertoire `~/.todo`, vous pouvez le
 Utilisation
 -----------
 Pour voir une liste explicative des fonctions proposées par le programme, appeler dans votre terminal :
+
     $ todo help
 
 Améliorations
