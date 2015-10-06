@@ -8,7 +8,7 @@ Installation
 * copier le fichier `todo` dans `~/bin`.
 * Ajouter les lignes suivantes au début de votre fichier `~/.zshrc` ou `~/.bashrc` :
 
-    #Todo liste à l'ouverture du terminal
+    \#Todo liste à l'ouverture du terminal
     todo sort
     todo viewTime
 
