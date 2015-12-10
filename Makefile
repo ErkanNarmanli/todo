@@ -2,6 +2,6 @@ make:
 	ghc --make todo.hs
 
 clean:
-	todo.hi
-	todo.o
-	todo
+	rm todo.hi
+	rm todo.o
+	rm todo
